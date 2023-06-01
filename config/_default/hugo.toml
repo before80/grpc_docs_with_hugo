@@ -1,4 +1,4 @@
-title = "grpc 中文档集"
+title = "gRPC 中文档集"
 
 # 禁用路径小写化
 disablePathToLower = true
@@ -97,7 +97,7 @@ linenos = true
 
 [params]
 _merge = "deep"
-copyright = "作者zlongx"
+copyright = "gRPC的作者们 和 me"
 # 是否隐藏页面所需阅读时间
 hide_readingtime = false
 privacy_policy = "https://policies.google.com/privacy"
