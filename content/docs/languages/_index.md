@@ -1,5 +1,5 @@
 +++
-title = "语言"
+title = "编程语言"
 weight = 2
 date = 2023-05-31T10:40:31+08:00
 description = ""
