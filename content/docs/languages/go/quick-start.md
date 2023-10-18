@@ -24,7 +24,7 @@ https://grpc.io/docs/languages/go/quickstart/
 
 - **[Protocol Buffers](https://developers.google.com/protocol-buffers) 编译器** `protoc`，[第 3 版](https://protobuf.dev/programming-guides/proto3)。
 
-  有关安装说明，请参阅 [Protocol Buffer 编译器安装](https://grpc.io/docs/protoc-installation/)。
+  有关安装说明，请参阅 [Protocol Buffer 编译器安装]({{< ref "/docs/ProtocolBufferCompilerInstallation">}})。
 
 - **Go 插件**用于协议编译器：
 
